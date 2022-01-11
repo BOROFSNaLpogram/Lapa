@@ -1,0 +1,136 @@
+html, body 
+{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
+
+.navlapa
+{
+  text-align: center;
+  font-size: 60px;
+}
+.populars
+{
+  position: absolute;
+  left: 20%;
+  top: 308px;
+  font-size: 22px;
+}
+
+
+
+.augsa_violets 
+{
+  background-color: #64157a ;
+  padding: 12px ;
+
+  font-family:"Comic Sans MS";
+  font-size: 24px;
+  text-align: right;
+  color: white;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_oranzs
+{
+  background-color: #f59300 ;
+  padding: 4px ;
+
+  position: absolute;
+  top: 56px;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_ikons
+{
+  position: absolute;
+  top: 14px;
+  right: 150px;
+
+  size: absolute;
+  width: 30px;
+}
+.augsa_maja
+{
+  position: absolute;
+  top: 10px;
+  left: 12px;
+
+  size: absolute;
+  width: 36px;
+}
+
+
+
+
+.aktraksti_virsraksts
+{
+  position: absolute;
+  right: 45px;
+  top: 95px;
+  font-size: 22px;
+
+}
+.aktraksti_saraksts
+{
+  position: absolute;
+  right: 120px;
+  top: 110px;
+  font-size: 18px;
+  line-height: 1.6;
+
+}
+
+
+
+
+.rek1
+{
+  position: absolute;
+  top: 73px;
+  left: 10px;
+
+  width: 320px;
+}
+.rek2
+{
+  position: absolute;
+  top: 1200px;
+  left: 5%;
+
+  width: 90%;
+  height: 200px;
+}
+
+
+
+
+.laparaksti
+{
+  position: absolute;
+  top: 358px;
+  left: 20%;
+
+  width:60%;
+}
+.rakstisunas
+{
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 2px;
+  width: 25%
+}
+.rakstiattels
+{
+  width: 100%;
+}

@@ -1,0 +1,109 @@
+html, body 
+{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.teksts_v
+{
+  position: absolute;
+  left: 25%;
+  top: 40px;
+  font-size: 40px;
+}
+.reklamas_k
+{
+  position: fixed;
+  right: 80%;
+  top: 64px;
+ width: 20%;
+ height: 95%;
+ 
+}
+.reklamas_l
+{
+position: fixed;
+  left: 80%;
+  top: 64px;
+ width: 20%;
+ height: 95%;
+}
+.attels1
+{
+  position: absolute;
+  width: 25%;
+  top: 20%;
+  left: 22%;
+}
+.raksts1
+{
+  position: absolute;
+  left: 25%;
+  top: 20%;
+  font-size: 30px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.attels2
+{
+  position: absolute;
+  width: 25%;
+  top: 55%;
+  left: 22%;
+}
+.raksts2
+{
+  position: absolute;
+  left: 25%;
+  top: 55%;
+  font-size: 30px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.augsa_violets 
+{
+  background-color: #64157a ;
+  padding: 12px ;
+
+  font-family:"Comic Sans MS";
+  font-size: 24px;
+  text-align: right;
+  color: white;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_oranzs
+{
+  background-color: #f59300 ;
+  padding: 4px ;
+
+  position: absolute;
+  top: 56px;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_ikons
+{
+  position: absolute;
+  top: 14px;
+  right: 150px;
+
+  size: absolute;
+  width: 30px;
+}
+.augsa_maja
+{
+  position: absolute;
+  top: 10px;
+  left: 12px;
+
+  size: absolute;
+  width: 36px;
+}

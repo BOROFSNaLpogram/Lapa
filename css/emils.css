@@ -1,0 +1,93 @@
+html, body 
+{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
+
+.augsa_violets 
+{
+  background-color: #64157a ;
+  padding: 12px ;
+
+  font-family:"Comic Sans MS";
+  font-size: 24px;
+  text-align: right;
+  color: white;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_oranzs
+{
+  background-color: #f59300 ;
+  padding: 4px ;
+
+  position: absolute;
+  top: 56px;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_ikons
+{
+  position: absolute;
+  top: 14px;
+  right: 150px;
+
+  size: absolute;
+  width: 30px;
+}
+.augsa_maja
+{
+  position: absolute;
+  top: 10px;
+  left: 12px;
+
+  size: absolute;
+  width: 36px;
+}
+.Title{
+  position: absolute;
+  top: 40px;
+  left: 20%;
+  font-size: 40px;
+  font-weight: bold;
+}
+.fortniterakstavirsraksts{
+position: absolute;
+  top: 120px;
+  left: 20%;
+  font-size: 24px;
+  font-weight: bold;
+}
+.Fortniteteksts{
+position: absolute;
+  top: 150px;
+  left: 20%;
+  font-size: 20px;
+  margin-right: 20%;
+}
+.ragephoto{
+  position: absolute;
+  top: 1000px;
+  left: 20%;
+  resize:both 20px ;
+  margin-right: 20%;
+  margin-bottom: 20px;
+}
+ul{
+  position: absolute;
+  top: 290px;
+  left: 20%;
+  font-size: 20px;
+  margin-right: 20%;
+}
+}

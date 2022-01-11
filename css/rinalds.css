@@ -1,0 +1,88 @@
+html, body 
+{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.Title{
+  position: absolute;
+  top: 40px;
+  left: 20%;
+  font-size: 40px;
+}
+
+.Bite1 {
+position: absolute;
+top: 65px;
+height:95%
+}
+
+
+
+
+.augsa_violets 
+{
+  background-color: #64157a ;
+  padding: 12px ;
+
+  font-family:"Comic Sans MS";
+  font-size: 24px;
+  text-align: right;
+  color: white;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_oranzs
+{
+  background-color: #f59300 ;
+  padding: 4px ;
+
+  position: absolute;
+  top: 56px;
+  left: 0;
+
+  size: absolute;
+  width: 100%;
+}
+.augsa_ikons
+{
+  position: absolute;
+  top: 14px;
+  right: 150px;
+
+  size: absolute;
+  width: 30px;
+}
+.augsa_maja
+{
+  position: absolute;
+  top: 10px;
+  left: 12px;
+
+  size: absolute;
+  width: 36px;
+}
+.rakstisunas
+{
+  border: 2px solid black;
+  padding: 2px;
+  width: 100%;
+  height: 100px;
+}
+.rakstiattels
+{
+  width: 300px;
+  position:relative;
+}
+.laparaksti
+{
+  position: absolute;
+  top: 400px;
+  left: 20%;
+  width: 10%
+}
